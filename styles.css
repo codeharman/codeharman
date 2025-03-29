@@ -7,6 +7,53 @@
 .container {
   display: flex;
   justify-content: center;
-  color: aliceblue;
+  color: #ecf0f1;
   padding: 10px;
+  gap: 55px;
+}
+
+.footer {
+  padding-left: 10px;
+  color: #ffff00;
+}
+
+#hover-home:hover {
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  background-color: blue;
+  color: #ecf0f1;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#hover-about:hover {
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  background-color: blue;
+  color: #ecf0f1;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#hover-projects:hover {
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  background-color: blue;
+  color: #ecf0f1;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#hover-experience:hover {
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 10px;
+  background-color: blue;
+  color: #ecf0f1;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
