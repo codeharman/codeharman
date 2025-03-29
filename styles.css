@@ -9,12 +9,14 @@
   justify-content: center;
   color: #ecf0f1;
   padding: 10px;
-  gap: 55px;
+  gap: 25px;
 }
 
 .footer {
+  position: relative;
   padding-left: 10px;
   color: #ffff00;
+  position: relative;
 }
 
 #hover-home:hover {
