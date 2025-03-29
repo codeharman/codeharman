@@ -1,0 +1,14 @@
+.body {
+  background-color: #171717;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  padding: 10px;
+}
