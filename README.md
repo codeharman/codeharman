@@ -10,7 +10,8 @@ I'm an aspiring Software Engineer with a background in advertising and a passion
 
 🧪 Projects I'm working on:
 
--  🔍 [Yahoo 2000 clone] (https://github.com/codeharman/2000-Yahoo-search-engine)
+- [Practice-zone] (https://github.com/codeharman/practice-zone) - I practice my learnings everyday through coding
+- [Yahoo 2000 clone] (https://github.com/codeharman/2000-Yahoo-search-engine)
 
 📫 Connect with me:
 Email: iamsingh.hj@gmail.com
