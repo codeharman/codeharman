@@ -29,6 +29,12 @@ I’m passionate about turning ideas into products that actually work in the rea
 
 ## 📌 Featured Projects
 
+### 🔹 [Fullstack Insider](https://fullstackinsider.com) — Tech & Developer Insights Newsletter  
+*Next.js, Tailwind, AWS SES, Node.js*  
+Daily insights for developers, Fullstack and system desgin tutorials, and trends.  
+- **Key Features:** Automated newsletter generation, API-powered content feeds  
+- **Impact:** Growing subscriber base with an average **30% open rate**  
+
 ## 🎯 What I’m Focusing On
 - 🔨 Building full-stack SaaS products  
 - 📚 Deepening backend & DevOps expertise  
@@ -38,5 +44,6 @@ I’m passionate about turning ideas into products that actually work in the rea
 
 ## 📬 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/codeharman/)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/codeharmann)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamsingh.hj@email.com)
