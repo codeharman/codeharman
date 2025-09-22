@@ -33,11 +33,15 @@ I’m passionate about turning ideas into products that actually work in the rea
 *Next.js, Tailwind, AWS SES, Node.js*  
 Daily insights for developers, Fullstack and system desgin tutorials, and trends.  
 - **Key Features:** Automated newsletter generation, API-powered content feeds  
-- **Impact:** Growing subscriber base with an average **30% open rate**  
+- **Impact:** Growing subscriber base with an average **30% open rate**
+
+### Smaller Projects
+- ![Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
+- ![Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
 
 ## 🎯 What I’m Focusing On
-- 🔨 Building full-stack SaaS products  
-- 📚 Deepening backend & DevOps expertise  
+- 🔨 Building full-stack products  
+- 📚 Deepening frontend & backend & DevOps expertise  
 - 💼 Open to **full-time roles, freelance projects, and collaborations**
 
 ---
