@@ -36,8 +36,8 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 - **Impact:** Growing subscriber base with an average **30% open rate**
 
 ### Smaller Projects
-- ![Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
-- ![Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
+- [Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
+- [Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
 
 ## 🎯 What I’m Focusing On
 - 🔨 Building full-stack products  
