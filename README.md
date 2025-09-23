@@ -1,26 +1,4 @@
-# 👋 Hi, I'm Harman — Full-Stack Developer & Problem Solver 🚀
-
-💡 I build **modern, fast, and scalable** web apps — from pixel-perfect frontends to rock-solid backends.  
-I’m passionate about turning ideas into products that actually work in the real world.  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [Fullstack Insider](https://fullstackinsider.com) — Tech & Developer Insights Newsletter  
-*Next.js, Tailwind, AWS SES, Node.js*  
-Daily insights for developers, Fullstack and system desgin tutorials, and trends.  
-- **Key Features:** Automated newsletter generation, API-powered content feeds  
-- **Impact:** Growing subscriber base with an average **30% open rate**
-
-### Smaller Projects
-- [Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
-- [Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
-
-## 🎯 What I’m Focusing On
-- 🔨 Building full-stack products  
-- 📚 Deepening frontend & backend & DevOps expertise  
-- 💼 Open to **full-time roles, freelance projects, and collaborations**
+# 👋 Hi, I'm Harman — Full-Stack Developer
 
 # 💫 About Me:
 🔭 I’m currently working on building full-stack projects and improving my problem-solving skills<br>🌱 I’m currently learning computer science fundamentals, JavaScript, React, and Node.js<br>💬 Ask me about web development, side projects, or breaking into software engineering<br>⚡ Fun fact: I love mixing tech with creativity—whether it’s coding apps or writing newsletters
@@ -45,5 +23,20 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 ---
 [![](https://visitcount.itsvg.in/api?id=codeharman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Featured Projects
+
+### 🔹 [Fullstack Insider](https://fullstackinsider.com) — Tech & Developer Insights Newsletter  
+*Next.js, Tailwind, AWS SES, Node.js*  
+Daily insights for developers, Fullstack and system desgin tutorials, and trends.  
+- **Key Features:** Automated newsletter generation, API-powered content feeds  
+- **Impact:** Growing subscriber base with an average **30% open rate**
+
+### Smaller Projects
+- [Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
+- [Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
+
+## 🎯 What I’m Focusing On
+- 🔨 Building full-stack products  
+- 📚 Deepening frontend & backend & DevOps expertise  
+- 💼 Open to **full-time roles, freelance projects, and collaborations**
 
