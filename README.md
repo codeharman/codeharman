@@ -34,6 +34,8 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 ### Smaller Projects
 - [Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
 - [Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
+- [BlackJack Game - A simple ui game](https://github.com/codeharman/Blackjack-Game)
+- [Generate Password - Helps you to create 12 characters long password](https://github.com/codeharman/Password-Generator)
 
 ## 🎯 What I’m Focusing On
 - 🔨 Building full-stack products  
