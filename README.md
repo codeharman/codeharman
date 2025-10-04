@@ -37,10 +37,8 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 - [BlackJack Game - A simple ui game](https://github.com/codeharman/Blackjack-Game)
 - [Generate Password - Helps you to create 12 characters long password](https://github.com/codeharman/Password-Generator)
 
-### [90 Day JavaScript challenge](https://github.com/codeharman/90-days-of-javascript)
-I made bite-sized projects to learn and master JavaScript and LeetCode
-- Day:1 Counter App [Live](https://passenger-counter-hazel.vercel.app/) [Code](https://github.com/codeharman/)
-- Day:2 Digital Clock [Live](https://digital-clock-codeharman.vercel.app/) [Code](./Day02-DigitalClock)
+### Challenges
+- [90 Day JavaScript challenge](https://github.com/codeharman/90-days-of-javascript) - I made bite-sized projects to learn and master JavaScript and LeetCode
 
 ## 🎯 What I’m Focusing On
 - 🔨 Building full-stack products  
