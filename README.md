@@ -43,6 +43,9 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 ### Challenges
 - [90 Day JavaScript challenge](https://github.com/codeharman/90-days-of-javascript) - I made bite-sized projects to learn and master JavaScript and LeetCode
 
+### Earned Badges
+[![An image of @codeharman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codeharman)](https://holopin.io/@codeharman)
+
 ## 🎯 What I’m Focusing On
 - 🔨 Building full-stack products  
 - 📚 Deepening frontend & backend & DevOps expertise  
