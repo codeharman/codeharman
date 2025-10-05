@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harman — Full-Stack Developer
+# 👋 Hi, I'm Harman — Full-Stack Developer ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codeharman)
 
 # 💫 About Me:
 🔭 I’m currently working on building full-stack projects and improving my problem-solving skills<br>🌱 I’m currently learning computer science fundamentals, JavaScript, React, and Node.js<br>💬 Ask me about web development, side projects, or breaking into software engineering<br>⚡ Fun fact: I love mixing tech with creativity—whether it’s coding apps or writing newsletters
