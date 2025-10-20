@@ -1,49 +1,16 @@
-# 👋 Hi, I'm Harman — Full-Stack Developer & Problem Solver 🚀
+# React + Vite
 
-💡 I build **modern, fast, and scalable** web apps — from pixel-perfect frontends to rock-solid backends.  
-I’m passionate about turning ideas into products that actually work in the real world.  
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🛠 Tech Stack
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+## React Compiler
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+## Expanding the ESLint configuration
 
----
-
-## 📌 Featured Projects
-
-### 🔹 [Fullstack Insider](https://fullstackinsider.com) — Tech & Developer Insights Newsletter  
-*Next.js, Tailwind, AWS SES, Node.js*  
-Daily insights for developers, Fullstack and system desgin tutorials, and trends.  
-- **Key Features:** Automated newsletter generation, API-powered content feeds  
-- **Impact:** Growing subscriber base with an average **30% open rate**  
-
-## 🎯 What I’m Focusing On
-- 🔨 Building full-stack SaaS products  
-- 📚 Deepening backend & DevOps expertise  
-- 💼 Open to **full-time roles, freelance projects, and collaborations**
-
----
-
-## 📬 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeharman/)
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/codeharmann)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamsingh.hj@email.com)
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
