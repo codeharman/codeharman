@@ -55,5 +55,3 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 - 🔨 Building full-stack products  
 - 📚 Deepening frontend & backend & DevOps expertise  
 - 💼 Open to **full-time roles, freelance projects, and collaborations**
-
->>>>>>> 45e5c82ea48bba2a551f929709f87d5adfed0865
