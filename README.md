@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Harman — Full-Stack Developer
 
-# 💫 About Me:
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codeharman)
 
 Hi, I’m Harman — a Fullstack Developer in progress 🚀. I’m currently learning the Fullstack Developer path at Scrimba and building projects with React, JavaScript, HTML/CSS, and Tailwind.
 
 I love sharing my coding journey, solving DSA problems, and turning ideas into real products. ✨Fun fact: I love mixing tech with creativity—whether it’s coding apps or writing newsletters
+
+[Vist my Portfolio Website](https://codeharman.vercel.app/)
 
 
 ## 🌐 Socials:
