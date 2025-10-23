@@ -48,6 +48,8 @@ Daily insights for developers, Fullstack and system desgin tutorials, and trends
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeharman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+I completed 2025 Hacktoberfest and contributed to 6 open source projects
+
 ### Earned Badges
 [![An image of @codeharman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codeharman)](https://holopin.io/@codeharman)
 
