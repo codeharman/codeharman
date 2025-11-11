@@ -53,7 +53,4 @@ I completed 2025 Hacktoberfest and contributed to 6 open source projects
 ### Earned Badges
 [![An image of @codeharman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codeharman)](https://holopin.io/@codeharman)
 
-## 🎯 What I’m Focusing On
-- 🔨 Building full-stack products  
-- 📚 Deepening frontend & backend & DevOps expertise  
 - 💼 Open to **full-time roles, freelance projects, and collaborations**
