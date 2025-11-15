@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Building uncovering co and viralbytes xyz (9)" src="https://github.com/user-attachments/assets/480496df-3122-4a5d-831f-e7931f9762f3" />
+
 # 👋 Hi, I'm Harman — Full-Stack Developer
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codeharman)
