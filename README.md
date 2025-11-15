@@ -1,12 +1,14 @@
-<img width="1584" height="396" alt="Building uncovering co and viralbytes xyz (9)" src="https://github.com/user-attachments/assets/480496df-3122-4a5d-831f-e7931f9762f3" />
+<img width="1584" height="396" alt="Building uncovering co and viralbytes xyz (10)" src="https://github.com/user-attachments/assets/30c7182c-9df6-4dc8-b2e2-661268258ad1" />
 
-# 👋 Hi, I'm Harman — Full-Stack Developer
+# 👋 Hi, I'm Harman
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=codeharman)
 
-Hi, I’m Harman — a Fullstack Developer in progress 🚀. I’m currently learning the Fullstack Developer path at Scrimba and building projects with React, JavaScript, HTML/CSS, and Tailwind.
+Hi! I’m Harman — a Frontend Engineer who enjoys building clean, fast, and user-friendly web interfaces. I work with React, JavaScript, TypeScript, and Tailwind, and I learn by shipping projects and experimenting with new ideas.
 
-I love sharing my coding journey, solving DSA problems, and turning ideas into real products. ✨Fun fact: I love mixing tech with creativity—whether it’s coding apps or writing newsletters
+I also share my developer journey through Fullstack Insider, where I document what I’m learning and building.
+
+🚀 Always improving. Always building.
 
 [Vist my Portfolio Website](https://codeharman.vercel.app/)
 
