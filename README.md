@@ -26,28 +26,8 @@ I also share my developer journey through Fullstack Insider, where I document wh
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codeharman&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=codeharman&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📌 Featured Projects
-
-### 🔹 [Fullstack Insider](https://fullstackinsider.com) — Tech & Developer Insights Newsletter  
-*Next.js, Tailwind, AWS SES, Node.js*  
-Daily insights for developers, Fullstack and system desgin tutorials, and trends.  
-- **Key Features:** Automated newsletter generation, API-powered content feeds  
-- **Impact:** Growing subscriber base with an average **30% open rate**
-
-### Smaller Projects
-- [Passenger Counter - A simple calculator to count passenger for public transit](https://github.com/codeharman/Passenger-Counter)
-- [Basketball Counter - A simple Score board for basketball game](https://github.com/codeharman/Basketball-Scoreboard)
-- [BlackJack Game - A simple ui game](https://github.com/codeharman/Blackjack-Game)
-- [Generate Password - Helps you to create 12 characters long password](https://github.com/codeharman/Password-Generator)
-
-### Challenges
-- [90 Day JavaScript challenge](https://github.com/codeharman/90-days-of-javascript) - I made bite-sized projects to learn and master JavaScript and LeetCode
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeharman&limit=5&theme=dark&combine_all_yearly_contributions=true)
