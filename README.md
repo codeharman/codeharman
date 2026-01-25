@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iamsingh.hj@gmail.com**
 
-- ⚡ Fun fact **I love playing Cyberpunk 2077 and scifi games**
+- ⚡ Fun fact **I love playing Cyberpunk 2077 and scifi game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
