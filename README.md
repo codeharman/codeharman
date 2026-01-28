@@ -23,3 +23,5 @@
   <li>Featured in <a href="https://www.linkedin.com/pulse/backend-developer-path-now-live-scrimba-xqpjf/?trackingId=mMFLdmL%2FSUKgkxB7KCIYVg%3D%3D#:~:text=Maps%3F%20%E2%80%A6paper%20map%3F-,I%20Built%20This,-This%20week%E2%80%99s%20community">Scrimba</a> newsletter for my button style repo</li>
   <li>Received recommendation from the <a href='https://www.linkedin.com/in/codeharman/#:~:text=was%20Harmanjot%E2%80%99s%20teacher-,Harmanjot%20is%20one%20of%20the%20most%20helpful%2C%20hard%2Dworking%2C%20and%20passionate,he%20will%20excel%20in%20just%20about%20any%20technical%20role%20he%20gets.,-Harmanjot%20is%20one'>CEO of Scrimba</a></li>
 </ul>
+
+<a href='https://scrimba.com/harman'><img src='./scrimba promo.png'/></a>
