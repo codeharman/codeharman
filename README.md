@@ -8,9 +8,10 @@
 <h3>What I'm Doing</h3>
 
 <ul>
-  <li> Completing the Fullstack career path from <a href='https://scrimba.com/harman'>Scrimba</a></li>
+  <li>Completing Backend career path from <a href='https://scrimba.com/harman'>Scrimba</a> and <a href='https://www.boot.dev/paths/backend?tech=python-typescript'>boot.dev</a></li>
+  <li>Completing Computer Science from codecadmey</li>
   <li>Building real-world projects with a focus on performance</li>
-  <li>Deepening my expertise in modern frontend architectures</li>
+  <li>Deepening my expertise in modern Backend architectures</li>
 </ul>
 
 <h3>Connect with me</h3>
